@@ -1,5 +1,3 @@
-<img src="screenshots/icon.png" width="96" align="right" alt="">
-
 # cyz's ISO Creator
 
 Makes an ISO file from a folder. That's it.

@@ -41,4 +41,6 @@ Needs Windows 7 SP1 or newer with .NET Framework 4.7.2 (already there on Windows
 
 [OrkaPlayer](https://github.com/cyz-yt/OrkaPlayer) · [OrkaNote](https://github.com/cyz-yt/OrkaNote) · [OrkaLinux](https://github.com/cyz-yt/OrkaLinux)
 
+Thanks for using cyz's ISO Creator!
+
 by _inc0gnit0

@@ -44,5 +44,3 @@ Needs Windows 7 SP1 or newer with .NET Framework 4.7.2 (already there on Windows
 - [OrkaPlayer](https://github.com/cyz-yt/OrkaPlayer): a media player with lyrics that sing along, karaoke, radio, TV and podcasts.
 - [OrkaNote](https://github.com/cyz-yt/OrkaNote): a Notepad for Windows with tabs that come back, colours for code, Run (F9) for scripts and a dark theme.
 - [OrkaLinux](https://github.com/cyz-yt/OrkaLinux): a Linux distribution built on Debian 13 with KDE Plasma 6.
-
-Thanks for using cyz's ISO Creator!

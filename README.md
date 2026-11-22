@@ -37,7 +37,7 @@ Current version: **1.1**
 
 ## Installing
 
-Download `IsoCreator-1.1-setup.exe` from [Releases](https://github.com/cyz-yt/cyzs-ISO-Creator/releases/latest) and run it. It installs for you only, no admin needed (or for everyone, if you pick that).
+Download `IsoCreator-1.1-setup.exe` from [Releases](https://github.com/cyz-yt/cyzs-ISO-Creator/releases/latest) and run it. It installs for you only, no admin needed (or for everyone, if you pick that). Setup can also install OrkaPlayer, OrkaNote and OrkaPaint for you.
 
 Windows may say "Windows protected your PC" because the installer is not code-signed - click **More info**, then **Run anyway**.
 
